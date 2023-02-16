@@ -1,0 +1,201 @@
+[{
+"id": "1",
+"Pregunta": "¿Donde se encuentra el matadero actualmente?",
+"res1": "Legazpi",
+"res2": "Arganzuela",
+"res3": "Amaniel",
+"res4": "la calle de Toledo",
+"imagen": "foto 1",
+"correcta": "Legazpi"
+},
+{
+"id": "2",
+"Pregunta": "Donde estaba ubicado antes el Matadero",
+"res1": "Legazpi",
+"res2": "La dehesa de Arganzuela",
+"res3": "Santa María de la Cabeza",
+"res4": "Getafe",
+"imagen": "foto 2",
+"correcta": "La dehesa de Arganzuela"
+},
+{
+"id": "3",
+"Pregunta": "¿Cuál es el nombre del edificio industrial construido en 1892 en la calle Toledo que alberga actualmente el Museo de Artes Decorativas?",
+"res1": "Fábrica de Tabacos Condal",
+"res2": "Fábrica de Cervezas El Águila",
+"res3": "Nave Boetticher",
+"res4": "Matadero",
+"imagen": "foto 3",
+"correcta": "Fábrica de Tabacos Condal"
+},
+{
+"id": "4",
+"Pregunta": "¿Qué antiguo edificio en Madrid fue originalmente construido como una fábrica de gas y luego convertido en un centro cultural?",
+"res1": "Puerta del Sol",
+"res2": "Centro Cultural Galileo",
+"res3": "CaixaForum",
+"res4": "Matadero Madrid",
+"imagen": "foto 4",
+"correcta": "Matadero Madrid"
+},
+{
+"id": "5",
+"Pregunta": "¿Cuándo se inauguró el planetario de Madrid?",
+"res1": "29 de Enero de 2016",
+"res2": "29 septiembre de 1986",
+"res3": "18 de Noviembre de 1990",
+"res4": "29 de septiembre de 1996",
+"imagen": "foto 5",
+"correcta": "29 septiembre de 1986"
+},
+{
+"id": "6",
+"Pregunta": "¿Cual es el teatro más famoso de Madrid?",
+"res1": "Teatro del Canal",
+"res2": "Teatro real",
+"res3": "Teatro Español",
+"res4": "Teatro Lope de Vega",
+"imagen": "foto 6",
+"correcta": "Teatro real"
+},
+{
+"id": "7",
+"Pregunta": "¿Qué año se construyó la Puerta de Toledo?",
+"res1": "1827",
+"res2": "1904",
+"res3": "1830",
+"res4": "1813",
+"imagen": "foto 7",
+"correcta": "1827"
+},
+{
+"id": "8",
+"Pregunta": "¿Qué arquitecto es el principal responsable del diseño de la Puerta de Toledo?",
+"res1": "Manuel Martín Rodríguez",
+"res2": "Juan Antonio Cuervo",
+"res3": "Antonio López Aguado",
+"res4": "Silvestre Pérez",
+"imagen": "foto 8",
+"correcta": "Antonio López Aguado"
+},
+{
+"id": "9",
+"Pregunta": "¿En qué año se finalizó la construcción de la Puerta de Alcalá?",
+"res1": "1599",
+"res2": "1714",
+"res3": "1590",
+"res4": "1778",
+"imagen": "foto 9",
+"correcta": "1778"
+},
+{
+"id": "10",
+"Pregunta": "¿Qué estilo arquitectónico tiene la Puerta de Alcalá?",
+"res1": "Neoclásico",
+"res2": "Renacentista",
+"res3": "Barroco",
+"res4": "Románico",
+"imagen": "foto 10",
+"correcta": "Neoclásico"
+},
+{
+"id": "11",
+"Pregunta": "¿En qué año se finalizó la construcción del Banco de España?",
+"res1": "17 de diciembre de 2003",
+"res2": "20 de diciembre de 2006",
+"res3": "17 de enero de 1999",
+"res4": "17 de diciembre de 1999",
+"imagen": "foto 11",
+"correcta": "17 de diciembre de 1999"
+},
+{
+"id": "12",
+"Pregunta": "¿Dónde se encuentra el mercado de San Miguel?",
+"res1": "Plaza Mayor de Madrid",
+"res2": "Lope de Vega",
+"res3": "La Cebada",
+"res4": "Chamberí",
+"imagen": "foto 12",
+"correcta": "Plaza Mayor de Madrid"
+},
+{
+"id": "13",
+"Pregunta": "¿Cuántas veces fue reconstruido el puente de Toledo?",
+"res1": "Dos veces en 1630 y en 1700",
+"res2": "Dos veces en 1680 y en 1715",
+"res3": "Una vez en 1715",
+"res4": "Tres veces en 1660, en 1680 y en 1715",
+"imagen": "foto 13",
+"correcta": "Dos veces en 1680 y en 1715"
+},
+{
+"id": "14",
+"Pregunta": "¿Cuál fue la primera residencia del Casino de Madrid?",
+"res1": "Uno de los edificios de la calle Sevilla",
+"res2": "El Palacio de la Equitativa",
+"res3": "Uno de los edificios de la calle Alcalá",
+"res4": "El actual Ayuntamiento de Madrid",
+"imagen": "foto 14",
+"correcta": "El Palacio de la Equitativa"
+},
+{
+"id": "15",
+"Pregunta": "¿Qué escuela de ingeniería dependiente de la Universidad Politécnica esta situada en el Palacio de las Artes y la Industria de Madrid?",
+"res1": "Escuela Técnica Superior de Ingenieros Industriales Universidad Politécnica de Madrid",
+"res2": "Escuela Técnica de Enseñanzas Especializadas SA",
+"res3": "Escuela Técnica Superior de Ingeniería Agronómica, Alimentaria y de Biosistemas",
+"res4": "Escuela Técnica Superior de Ingeniería y Diseño Industrial",
+"imagen": "foto 15",
+"correcta": "Escuela Técnica Superior de Ingenieros Industriales Universidad Politécnica de Madrid"
+},
+{
+"id": "16",
+"Pregunta": "¿Dónde se encuentra la real fábrica de tapices de madrid?",
+"res1": "en el barrio de Pacífico de Madrid",
+"res2": "en el barrio de Salamanca de Madrid",
+"res3": "en el barrio de Rio Rosas de Madrid",
+"res4": "en el barrio de vallecas en Madrid",
+"imagen": "foto 16",
+"correcta": "en el barrio de Pacífico de Madrid"
+},
+{
+"id": "17",
+"Pregunta": "¿Como se le conoce históricamente a la estación del norte?",
+"res1": "Estación de Atocha",
+"res2": "Chamartín",
+"res3": "Príncipe Pío",
+"res4": "Estación de Aluche",
+"imagen": "foto 17",
+"correcta": "Príncipe Pío"
+},
+{
+"id": "18",
+"Pregunta": "¿Porque se quiso crear el museo del ferrocaril de Madrid?",
+"res1": "Por tener otro museo en Madrid",
+"res2": "Por el 100 aniversario del primer ferrocarril peninsular",
+"res3": "Por el 50 aniversario del primer ferrocarril Europeo",
+"res4": "Por tener un recuerdo de los primeros ferrocarriles que hubo en españa",
+"imagen": "foto 18",
+"correcta": "Por el 100 aniversario del primer ferrocarril peninsular"
+},
+{
+"id": "19",
+"Pregunta": "¿Cuál fue el uso anterior del edificio del Caixa Forum?",
+"res1": "Central Electrica",
+"res2": "Fabrica de Algodon",
+"res3": "Almacenes industriales",
+"res4": "Centro Comercial",
+"imagen": "foto 19",
+"correcta": "Central Electrica"
+},
+{
+"id": "20",
+"Pregunta": "¿Cuál es uno de los edificios relacionados con patrimonio industrial menos valorados?",
+"res1": "Chimeneas",
+"res2": "Matadero",
+"res3": "Medialab Prado",
+"res4": "Sociedad Gasificadora Industrial",
+"imagen": "foto 20",
+"correcta": "Sociedad Gasificadora Industrial"
+}
+]
